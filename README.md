@@ -1,6 +1,6 @@
 # Soil Moisture Monitoring & Control (ESP32 + Node.js + MQTT)
 # This project monitors soil moisture with an ESP32 and uses a Raspberry Pi (Node.js server) as the backend.
-Communication happens via MQTT.
+# Communication happens via MQTT.
 
 # Components:
 # ESP32 (Arduino/PlatformIO)
